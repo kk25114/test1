@@ -386,7 +386,7 @@ export const ChatInput = ({
           rel="noreferrer"
           className="underline"
         >
-          购买apikey
+          点击购买apikey
         </a>
         .{' '}
         {t(
