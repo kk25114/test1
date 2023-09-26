@@ -384,11 +384,12 @@ export const Chat = memo(({ stopConversationRef }: Props) => {
               >
                 openai.com 或者 
               </a>
-              <a>
+              <a
                 href="https://kk25114.shop/buy/26"
                 target="_blank"
                 rel="noreferrer"
                 className="text-blue-500 hover:underline"
+               >
                 直接购买
               </a>
               
