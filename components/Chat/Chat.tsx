@@ -382,8 +382,8 @@ export const Chat = memo(({ stopConversationRef }: Props) => {
                 rel="noreferrer"
                 className="text-blue-500 hover:underline"
               >
-                openai.com 或者
-              </a>
+                openai.com </a>
+              或者
               <a
                 href="https://kk25114.shop/buy/26"
                 target="_blank"
