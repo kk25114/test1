@@ -376,7 +376,6 @@ export const Chat = memo(({ stopConversationRef }: Props) => {
             </div>
             <div>
               {t("If you don't have an OpenAI API key, you can get one here: ")}
-              
               <a
                 href="https://kk25114.shop/buy/26"
                 target="_blank"
